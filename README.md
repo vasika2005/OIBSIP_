@@ -88,7 +88,7 @@ Installation (5 minutes)
 bash
 
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/pizza-hub.git
+git clone https://github.com/vasika2005/pizza-hub.git
 cd pizza-hub
 
 # 2. Install dependencies
